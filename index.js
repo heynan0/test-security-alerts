@@ -1,3 +1,4 @@
+const _ = require('underscore');
 const crypto = require('crypto-js');
 const fs = require('fs');
 const moment = require('moment');
@@ -34,3 +35,15 @@ function testRimraf() {
 }
 
 testRimraf();
+
+function testUnderscore() {
+    let str = '';
+
+    _.each(['a', 'b', 'c'], (letter) => {
+        str = str + letter;
+    });
+
+    return str;
+}
+
+console.log({ letters: testUnderscore() });
