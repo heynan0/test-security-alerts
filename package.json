@@ -19,7 +19,7 @@
   "dependencies": {
     "crypto-js": "^3.1.2",
     "moment": "^1.4.0",
-    "rimraf": "^1.0.0",
+    "rimraf": "^3.0.1",
     "underscore": "^1.2.0"
   }
 }
