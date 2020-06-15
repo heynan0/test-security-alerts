@@ -18,7 +18,7 @@
   "homepage": "https://github.com/heynan0/test-security-alerts#readme",
   "dependencies": {
     "crypto-js": "^3.1.2",
-    "moment": "^1.4.0",
+    "moment": "^2.26.0",
     "rimraf": "^1.0.0",
     "underscore": "^1.2.0"
   }
