@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "apollo-server": "2.14.1",
+    "apollo-server": "3.13.0",
     "lodash": "4.17.4",
     "nodemon": "1.0.0",
     "opsie": "1.0.0",
